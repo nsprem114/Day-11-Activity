@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+.fa {
+  color: royalblue;
+}
+
+a {
+  border-bottom: 1px solid blue;
+}
+
+p {
+  margin: 10px 0px;
+  font-size: 12px;
+}
+
+.box-part {
+  padding: 50px 10px;
+  margin: 30px 5px;
+  border: 1px solid black;
+}
+
+.box {
+  padding: 70px 1px;
+}
+.first-box {
+  border: 2px solid black;
+  /* height: 300px;
+  width: 200px; */
+  padding: 10px 10px;
+}
+.ovel {
+  border: 2px solid black;
+  padding: 70px;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+.first-box-setup {
+  display: flex;
+}
+.text {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+button {
+  width: 100px;
+  height: 30px;
+}
+
+.heading {
+  text-align: center;
+  border: 1px solid black;
+  width: 40%;
+  margin: auto;
+}
